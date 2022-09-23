@@ -1,0 +1,32 @@
+body {
+    font-family: Verdana, Arial, sans-serif;
+}
+h1 {
+    font-weight: 900;
+    color:saddlebrown;
+}
+h2 {
+    font-weight: 700;
+    color: rgb(189, 119, 28);
+}
+h3 {
+    font-weight: 500;
+    color:rgb(197, 121, 21);
+    font-style: normal;
+}
+ul {
+    background-color: aqua;
+}
+ol {
+    background-color: blueviolet;
+}
+li {
+    background-color: aquamarine;
+}
+a {
+    background-color: rgb(226, 226, 226);
+    font-size: larger;
+}
+.list-link {
+    background-color: unset;
+}
